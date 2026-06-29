@@ -8,8 +8,10 @@ Trabajaremos con información registrada **hasta el año 2024**, lo cual permiti
 # DataSet.
 Para ello trabajarás con tres datasets:
 
-**plans.csv** → información de los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra) <br>
-**users.csv** → información de los clientes (edad, ciudad, fecha de registro, plan, churn)<br>
+**plans.csv** → información de los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra) 
+<br>
+**users.csv** → información de los clientes (edad, ciudad, fecha de registro, plan, churn)
+<br>
 **usage.csv** → detalle del uso real de los servicios (llamadas y mensajes)
 
 # Etapas del análisis.
