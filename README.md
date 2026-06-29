@@ -84,4 +84,4 @@ Adjunto se encuentra el notbook para que sea explorado en GoogleColab, para ejec
 1. Da click en el logo de Open in Colab <img width="151" height="29" alt="image" src="https://github.com/user-attachments/assets/929c4364-5fa9-46d3-82ac-37ccb6d6ba5b" />
 Los dataset ya estan en este repositorio y solo debes de ejecuta las celdas en orden desde la primera hasta la última (Runtime > Run all)
 <img width="1007" height="121" alt="image" src="https://github.com/user-attachments/assets/df3a852e-59f6-4a8e-ad4c-71f715c63983" />
-Autmoticamente correra todos comandos hasta el último,
+Automaticamente correra todos comandos hasta el último.
