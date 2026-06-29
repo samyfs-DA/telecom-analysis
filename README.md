@@ -22,10 +22,10 @@ Este análisis permite **identificar patrones de consumo, diseñar estrategias d
 ## 1. Cargar y Explorar
 En esta etapa, validar que los archivos se carguen correctamente, conocer sus columnas y tipos de datos, y detectar posibles inconsistencias.
 
-###1.1 Carga de datos y vista rápida
+### 1.1 Carga de datos y vista rápida
 Tener los 3 datasets listos en memoria, entender su contenido y realizar una revisión preliminar.
 
-###1.2 Exploración de la estructura de los datasets
+### 1.2 Exploración de la estructura de los datasets
 Conocer la estructura de cada dataset, revisar cuántas filas y columnas tienen, identificar los tipos de datos de cada columna y detectar posibles inconsistencias o valores nulos antes de iniciar el análisis.
 
 ## 2. Identificación de problemas de calidad de datos
