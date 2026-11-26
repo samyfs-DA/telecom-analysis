@@ -6,7 +6,7 @@ Evaluar el **comportamiento de los clientes** de una empresa de telecomunicacion
 Trabajaremos con información registrada **hasta el año 2024**, lo cual permitirá analizar el comportamiento del negocio dentro de ese periodo.
 
 # DataSet.
-Para ello trabajarás con tres datasets:
+Para ello se cuenta con tres datasets:
 
 **plans.csv** → información de los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra) 
 <br>
