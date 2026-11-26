@@ -77,7 +77,7 @@ Visualizar la distribución de los usuarios según los grupos creados: **grupo_u
 ## 7. Insight Ejecutivo para Stakeholders
 Traducir los hallazgos del análisis en conclusiones accionables para el negocio, enfocadas en segmentación, patrones de uso y oportunidades comerciales.
 
-## 8. Ejecutar el Notebooc.
+## 8. Ejecutar el Notebook.
 Adjunto se encuentra el notbook para que sea explorado en GoogleColab, para ejecutar:
 
 ¿Cómo ejecutar el notebook?
