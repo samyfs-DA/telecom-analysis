@@ -104,13 +104,13 @@ Traducir los hallazgos del análisis en conclusiones accionables para el negocio
 
 ## 8. Ejecutar el Notebook.
 
-Adjunto se encuentra el notebook: "<a href="https://colab.research.google.com/github/samyfs-DA/telecom-analysis/blob/main/Project_ConnectaTel.ipynb">Project_ConnetaTel.ipynb</a>" para que sea explorado en Google Colab, para ejecutar:
+Adjunto se encuentra el notebook: "Project_ConnetaTel.ipynb" para que sea explorado en Google Colab, para ejecutar:
 
 ¿Cómo ejecutar el notebook?
 1. Da click en el logo de Open in Colab <a href="https://colab.research.google.com/github/samyfs-DA/telecom-analysis/blob/main/Project_ConnectaTel.ipynb">
 <img width="151" height="29" alt="image" src="https://github.com/user-attachments/assets/929c4364-5fa9-46d3-82ac-37ccb6d6ba5b" /> </a>
 
-Los dataset ya estan en este repositorio y solo debes de ejecuta las celdas en orden desde la primera hasta la última (Runtime > Run all)
+Los datasets ya están en este repositorio y solo debes ejecutar las celdas en orden desde la primera hasta la última (Runtime > Run all).
 
 <img width="689" height="103" alt="image" src="https://github.com/user-attachments/assets/b7f6352a-1906-487a-a05b-93deaa3e7eb6" />
 
